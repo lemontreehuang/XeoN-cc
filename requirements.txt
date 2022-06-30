@@ -1,7 +1,0 @@
-requests
-pysocks
-colorama
-socket
-requests
-ssl
-sys
