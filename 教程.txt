@@ -1,0 +1,17 @@
+你好,我是XeoN_K
+教程:
+     1.下载好脚本后终端或cmd里输入python install.py       (安装模块,不安装程序会报错)
+     2.安装完成后请输入python XeoN.py -h                  (查看指令)
+     3.使用前请先输入python XeoN.py -down                 (下载最新的代理)
+     4.下载完成后输入python XeoN.py -check                (检查代理,如果不检查效果不会很大)
+
+攻击指令:
+     1.python XeoN.py -url 网址        (默认线程800个,攻击时间是60秒)
+     2.python XeoN.py -url 网址  -t 200 -s 100    (这里设置线程为200个,攻击100秒)
+
+工具大致就这样使用,你也可以参考脚本里的帮助内容.指令:python XeoN.py -h
+
+
+我的快手号:XeoN_K10
+我的qq号:3302949823
+有问题请联系我
